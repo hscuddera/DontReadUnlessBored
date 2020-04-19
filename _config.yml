@@ -1,6 +1,5 @@
 # Site settings
-title_left    : "Don'tRead"
-title_right   : "Unless Bored" # default: ""
+title_left    : "Don't Read Unless Bored"
 description   : "dont do it. unless ur bored."
 keywords      : "hscuddera"
 url           : https://hscuddera.github.io/DontReadUnlessBored/ # site url
